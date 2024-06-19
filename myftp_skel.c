@@ -376,7 +376,7 @@ int main(int argc, char *argv[])
     // close socket
     close(sd);
 
-
+    printf("\nSE CERRARÁ EL CLIENTE\n");
     return 0;
 }
 
